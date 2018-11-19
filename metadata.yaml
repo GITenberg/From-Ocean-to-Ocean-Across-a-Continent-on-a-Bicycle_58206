@@ -1,11 +1,16 @@
 _repo: From-Ocean-to-Ocean-Across-a-Continent-on-a-Bicycle_58206
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58206-h/images/cover.jpg
 creator:
   author:
     agent_name: Murif, Jerome J.
     gutenberg_agent_id: '49826'
     url: http://www.gutenberg.org/2009/agents/49826
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58206#From-Ocean-to-Ocean-Across-a-Continent-on-a-Bicycle
 gutenberg_issued: '2018-10-30'
 gutenberg_type: Text
 identifiers:
